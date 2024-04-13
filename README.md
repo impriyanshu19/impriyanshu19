@@ -11,12 +11,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<a href="http://aws.amazon.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Cloud_DevOps/blob/main/amazon-aws.svg" alt="aws" width="40" height="40"/> </a>
+<a href="http://aws.amazon.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/amazon-aws.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/jmnote/z-icons/blob/master/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Cloud_DevOps/blob/main/docker.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/impriyanshu19/Cloud_DevOps/blob/main/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/impriyanshu19/Cloud_DevOps/blob/main/linux.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Cloud_DevOps/blob/main/ansible.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/docker.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/linux.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/ansible.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://about.gitlab.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 <br>
