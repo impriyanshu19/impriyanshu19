@@ -21,5 +21,10 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impriyanshu19&" alt="impriyanshu19" /></p>
+
 Have questions or just want to chat? Don't hesitate to reach out to me via [email](mailto:impriyanshu11@gmail.com).
 Thanks again for dropping by.
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180"/>
+
