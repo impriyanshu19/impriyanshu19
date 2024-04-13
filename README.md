@@ -20,6 +20,6 @@
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://github.com/impriyanshu19/Icons/blob/main/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<br>
+
 Have questions or just want to chat? Don't hesitate to reach out to me via [email](mailto:impriyanshu11@gmail.com).
 Thanks again for dropping by.
