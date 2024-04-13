@@ -26,5 +26,5 @@
 Have questions or just want to chat? Don't hesitate to reach out to me via [email](mailto:impriyanshu11@gmail.com).
 Thanks again for dropping by.
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" height="180"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380" height="220"/>
 
